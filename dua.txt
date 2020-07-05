@@ -1,3 +1,5 @@
 Prima:
 cinta cinta cinta
 cinta cinta cinta
+
+ini cinta Prima
